@@ -148,6 +148,3 @@ The model was trained for maximum 10 epochs as more of them would result in over
 
 
 <div style="page-break-after: always;"></div>
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
